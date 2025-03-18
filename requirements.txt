@@ -1,0 +1,7 @@
+playwright>=1.40.0
+httpx>=0.24.1
+pillow>=9.5.0
+python-dotenv>=1.0.0
+
+# Optional dependencies for replay functionality
+opencv-python>=4.7.0.72  # For replay feature 
